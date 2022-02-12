@@ -8,9 +8,9 @@
     <description>Java class library for obtaining geolocation information of an IP address.</description>
     <developers>
         <developer>
-            <id>jeszy</id>
-            <name>Péter Jeszenszky</name>
-            <email>jeszenszky.peter@inf.unideb.hu</email>
+            <id>vakics</id>
+            <name>Pazonyi Panna Krisztina</name>
+            <email>ppannaxyz@gmail.com</email>
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
         </developer>
@@ -28,14 +28,13 @@
             <version>11.8</version>
             <scope>compile</scope>
         </dependency>
-<!--
+
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.12.0</version>
             <scope>compile</scope>
         </dependency>
--->
 <!--
         <dependency>
             <groupId>org.projectlombok</groupId>
